@@ -1,2 +1,1 @@
-# budgetyyy
-An online budget app using React, Redux and Firebase
+Just a small online budget app ~~~~~**\_\_\_\***~~~~~~~~~~~~
